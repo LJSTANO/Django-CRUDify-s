@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <style>
+        table {
+            border-collapse: separate; /* Allow border-radius to take effect */
+            width: 70%;
+            border-spacing: 0; /* Remove gaps between cells */
+            border: none; /* Remove default border */
+            border-radius: 10px 10px 0 0; /* Rounded top left and right corners */
+            overflow: hidden; /* Ensure rounding affects content */
+            position: relative; /* For positioning the green border */
+        }
+
+        th, td {
+            padding: 8px; /* Cell padding */
+            text-align: left; /* Text alignment */
+            border: none; /* Remove all borders from cells */
+        }
+
+        th {
+            background-color: #4CAF50; /* Header background color */
+            color: white; /* Header text color */
+        }
+
+        /* Horizontal borders */
+        tr:not(:first-child) td {
+            border-top: 1px solid #ddd; /* Horizontal border above each cell */
+        }
+
+        /* Bottom border for the table */
+        table::after {
+            content: '';
+            display: block;
+            height: 3px; /* Height of the green bottom border */
+            background-color: #4CAF50; /* Green color */
+            position: absolute; /* Position it at the bottom */
+            left: 0; /* Align to the left */
+            right: 0; /* Align to the right */
+            bottom: 0; /* Position it at the bottom of the table */
+        }
+    </style>
+</head>
+<body>
+    <h2>Leaderboard</h2>
+    <table>
+        <tr>
+            <th>Rank</th>
+            <th>Name</th>
+            <th>Points</th>
+            <th>Team</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Domenic</td>
+            <td>88,110</td>
+            <td>dcode</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Sally</td>
+            <td>72,400</td>
+            <td>Students</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Nick</td>
+            <td>52,300</td>
+            <td>dcode</td>
+        </tr>
+    </table>
+</body>
+</html>
