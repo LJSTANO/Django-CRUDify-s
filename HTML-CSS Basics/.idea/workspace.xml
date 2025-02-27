@@ -5,6 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4831b84f-a966-4bcb-8ead-ca90f82f2c63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Church360.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/church.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comp.jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/worship.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ref.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLCSS Project/Assignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLCSS Project/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Basics/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python-Basics/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../church 360/church360.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/../README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -38,7 +65,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Stanley Kaguru/Desktop/WEB DEVELOPMENT EMOBILIS/HTML-CSS Basics&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -102,7 +129,20 @@
       <workItem from="1729000327553" duration="59000" />
       <workItem from="1729155248569" duration="1191000" />
       <workItem from="1729156806126" duration="1679000" />
-      <workItem from="1729164166732" duration="1090000" />
+      <workItem from="1729164166732" duration="4583000" />
+      <workItem from="1729253936857" duration="194000" />
+      <workItem from="1729254914475" duration="88000" />
+      <workItem from="1729255020850" duration="270000" />
+      <workItem from="1729596865046" duration="3039000" />
+      <workItem from="1729677899282" duration="9650000" />
+      <workItem from="1729709712431" duration="364000" />
+      <workItem from="1729710083649" duration="3211000" />
+      <workItem from="1729747903774" duration="5438000" />
+      <workItem from="1729838040003" duration="11500000" />
+      <workItem from="1729969237905" duration="3482000" />
+      <workItem from="1729972835754" duration="571000" />
+      <workItem from="1730093508453" duration="366000" />
+      <workItem from="1730114295549" duration="269000" />
     </task>
     <servers />
   </component>
